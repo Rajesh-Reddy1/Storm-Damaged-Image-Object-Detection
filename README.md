@@ -10,7 +10,7 @@
   <p align="center">
     A machine learning challenge to identify damaged and undamaged buildings from satellite imagery.
     <br />
-    <a href="https://github.com/your_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sbtnoob12/Storm-Structural-Damage-Assessment/blob/main/Storm_Structure_Image_Damaged_Detection.ipynb"><strong>Explore the notebook »</strong></a>
     <br />
   </p>
 </div>
@@ -34,11 +34,11 @@
 <!-- ABOUT THE CHALLENGE -->
 ## About The Challenge
 
-The EY Open Science Data Challenge 2024 presents an opportunity for participants to leverage high-resolution pre and post-event satellite imagery to assess the damage inflicted by tropical cyclones on coastal infrastructure.
+The is my team project to partake in the EY Open Science Data Challenge 2024. The competition presents an opportunity to leverage high-resolution pre and post-event satellite imagery to assess the damage inflicted by tropical cyclones on coastal infrastructure.
 
 The goal is to build a machine learning model capable of identifying and classifying buildings as 'damaged' or 'undamaged' across residential and commercial zones.
 
-This project includes a demonstration notebook to serve as a starting point, utilizing YOLOv8 for object detection. 
+This project utilizes YOLOv8 for object detection. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,7 +57,7 @@ This project was built with the following frameworks and libraries:
 <!-- CHALLENGE STRUCTURE -->
 ## Challenge Structure
 
-The project consists of annotated datasets, a YAML configuration file, and a trained YOLOv8 model. The file structure and preparation steps are thoroughly documented in the provided Jupyter Notebook, enabling participants to structure their own dataset and configuration for model training.
+The project consists of annotated datasets, a YAML configuration file, and a trained YOLOv8 model. The file structure and preparation steps are thoroughly documented in the provided Jupyter Notebook.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,8 +76,8 @@ pip install opencv-python-headless
 pip install labelme2yolo
 pip install rasterio
 pip install GDAL
-
-<!-- USAGE -->
+```
+### USAGE 
 For detailed examples on how to use the project, refer to the Jupyter Notebook included in the repository. Additionally, consult the Ultralytics Documentation for advanced usage of YOLOv8.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
