@@ -4,20 +4,17 @@
 <br />
 <div align="center">
     <img src="images/logo.png" alt="Logo" width="500" height="500">
-
-  <h3 align="center">Tropical Cyclone Damage Assessment</h3>
-
+  <h3 align="center">🌀 Tropical Cyclone Damage Assessment</h3>
   <p align="center">
-    A machine learning challenge to identify damaged and undamaged buildings from satellite imagery.
+    🛰️ A machine learning challenge to identify damaged and undamaged buildings from satellite imagery.
     <br />
-    <a href="https://github.com/sbtnoob12/Storm-Structural-Damage-Assessment/blob/main/Storm_Structure_Image_Damaged_Detection.ipynb"><strong>Explore the notebook »</strong></a>
+    <a href="https://github.com/sbtnoob12/Storm-Structural-Damage-Assessment/blob/main/Storm_Structure_Image_Damaged_Detection.ipynb"><strong>🔍 Explore the notebook »</strong></a>
     <br />
   </p>
 </div>
-
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>📚 Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-challenge">About The Challenge</a>
@@ -26,11 +23,14 @@
       </ul>
     </li>
     <li><a href="#challenge-structure">Challenge Structure</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+      </ul>
+    </li>
     <li><a href="#usage">Usage</a></li>
   </ol>
 </details>
-
 <!-- ABOUT THE CHALLENGE -->
 ## About The Challenge
 
@@ -55,14 +55,14 @@ This project was built with the following frameworks and libraries:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CHALLENGE STRUCTURE -->
-## Challenge Structure
+##🏗️ Challenge Structure
 
 The project consists of annotated datasets, a YAML configuration file, and a trained YOLOv8 model. The file structure and preparation steps are thoroughly documented in the provided Jupyter Notebook.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 🚀Getting Started
 
 To replicate the demonstration or build upon it, follow the below steps:
 
@@ -77,7 +77,7 @@ pip install labelme2yolo
 pip install rasterio
 pip install GDAL
 ```
-### USAGE 
+###📖USAGE 
 For detailed examples on how to use the project, refer to the Jupyter Notebook included in the repository. Additionally, consult the Ultralytics Documentation for advanced usage of YOLOv8.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
