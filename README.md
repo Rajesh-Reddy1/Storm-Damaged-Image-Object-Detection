@@ -78,7 +78,7 @@ pip install labelme2yolo
 pip install rasterio
 pip install GDAL
 ```
-###📖USAGE 
+### 📖USAGE 
 For detailed examples on how to use the project, refer to the Jupyter Notebook included in the repository. Additionally, consult the Ultralytics Documentation for advanced usage of YOLOv8.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
