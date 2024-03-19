@@ -33,7 +33,7 @@
 </details>
 
 <!-- ABOUT THE CHALLENGE -->
-##About The Challenge
+## About The Challenge
 
 The is my team project to partake in the EY Open Science Data Challenge 2024. The competition presents an opportunity to leverage high-resolution pre and post-event satellite imagery to assess the damage inflicted by tropical cyclones on coastal infrastructure.
 
@@ -56,18 +56,18 @@ This project was built with the following frameworks and libraries:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CHALLENGE STRUCTURE -->
-##🏗️Challenge Structure
+## 🏗️Challenge Structure
 
 The project consists of annotated datasets, a YAML configuration file, and a trained YOLOv8 model. The file structure and preparation steps are thoroughly documented in the provided Jupyter Notebook.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-##🚀Getting Started
+## 🚀Getting Started
 
 To replicate the demonstration or build upon it, follow the below steps:
 
-###Prerequisites
+### Prerequisites
 
 Installation of necessary packages:
 
